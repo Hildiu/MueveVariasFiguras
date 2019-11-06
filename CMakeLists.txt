@@ -1,6 +1,6 @@
 ﻿cmake_minimum_required(VERSION 3.13)
 project(pacman)
-//---
+
 # Archivos del Projecto
 set(PROJECT_SOURCE
         main.cpp
